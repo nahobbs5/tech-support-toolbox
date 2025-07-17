@@ -9,4 +9,4 @@ A collection of scripts for automating common tech support tasks and troubleshoo
 - Restart print spooler
 
 ### Bash
-- Apt Update Tool (for use in Linux Distros that use Snap, e.g. Ubuntu, KDE Neon, Manjaro Linux, Solus, Zorin OS, and Mint (if snapd is enabled)
+- Apt Update Tool: for use in Linux Distros that use Snap, e.g. Ubuntu, KDE Neon, Manjaro Linux, Solus, Zorin OS, and Mint (if snapd is enabled)
