@@ -10,6 +10,7 @@ This repository contains a collection of PowerShell and Bash scripts designed to
 
 ### PowerShell
 - Apps to Update (Uses the winget package manager to update listed apps)
+- Check Internet Connection
 - Map a network drive
 - Restart print spooler
 
