@@ -13,6 +13,7 @@ This repository contains a collection of PowerShell and Bash scripts designed to
 - Check Internet Connection
 - Map a network drive
 - Restart print spooler
+- Update Microsoft Graph Modules (for PowerShell 5)
 
 ### Bash
 - Apt Update Tool: for use in Linux Distros that use Snap, e.g. Ubuntu, KDE Neon, Manjaro Linux, Solus, Zorin OS, and Mint (if snapd is enabled)
