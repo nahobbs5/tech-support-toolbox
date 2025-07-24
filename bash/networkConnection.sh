@@ -1,5 +1,5 @@
 #!/bin/bash
-# Purpose: Test Network Connectivity
+# Purpose: Test Network Connectivity. This currently uses Google and GitHub as the test hosts.
 
 #Colors
 RED='\033[0;31m'
