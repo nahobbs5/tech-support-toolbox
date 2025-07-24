@@ -17,6 +17,7 @@ This repository contains a collection of PowerShell and Bash scripts designed to
 
 ### Bash
 - Apt Update Tool: for use in Linux Distros that use Snap, e.g. Ubuntu, KDE Neon, Manjaro Linux, Solus, Zorin OS, and Mint (if snapd is enabled)
+- Network connection tool
 
 ## License
 
